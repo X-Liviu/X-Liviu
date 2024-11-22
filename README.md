@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👨‍💻 Bienvenido a mi perfil de GitHub
 
-<!--
-**X-Liviu/X-Liviu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy **Liviu Deleanu**, estudiante de **Ingeniería Informática**.
 
-Here are some ideas to get you started:
+Este repositorio principal es una recopilación de proyectos, prácticas y recursos que reflejan mi aprendizaje y crecimiento como desarrollador.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+
+
+
+
+
+
